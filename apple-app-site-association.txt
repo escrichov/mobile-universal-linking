@@ -1,0 +1,15 @@
+{
+  "applinks": {
+      "apps": [ ],
+      "details": [
+          {
+              "appID": "beta",
+              "paths": [ "/", "/test/*" ]
+          },
+          {
+              "appID": "prod",
+              "paths": [ "/", "/test/*" ]
+          }
+      ]
+  }
+}
